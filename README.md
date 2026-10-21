@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=mdatikur-contact&color=blue&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/mdatikur-contact?style=social)  
-![Stars](https://img.shields.io/github/stars/mdatikur-contact?style=social)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=aratikur&color=blue&style=flat-square)  
+![Followers](https://img.shields.io/github/followers/aratikur?style=social)  
+![Stars](https://img.shields.io/github/stars/aratikur?style=social)
 
 ---
 
@@ -65,11 +65,11 @@ A passionate **Web Developer**, **CSE Student**, and aspiring **Software Enginee
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdatikur-contact&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mdatikur-contact&theme=radical" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aratikur&show_icons=true&theme=radical" alt="Md Atikur Rahman's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=aratikur&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikur-contact&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratikur&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
 
 ---
